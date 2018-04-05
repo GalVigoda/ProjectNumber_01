@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectNumber_1</string>
+    <string name="First_name">First Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="Age">Age</string>
+    <string name="Next">Next</string>
+    <string name="Back">Back</string>
+    <string name="Esay">Esay</string>
+    <string name="Normal">Normal</string>
+    <string name="Hard">Hard</string>
+
+
+
+
+</resources>
