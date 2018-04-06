@@ -32,6 +32,7 @@
         android:orientation="vertical">
 
         <Button
+            android:layout_marginTop="10dp"
             android:id="@+id/btEazy"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,7 +60,7 @@
             android:layout_weight="1"
             android:background="@android:color/holo_red_dark"
             android:fontFamily="@font/finger_paint"
-            android:text="Hard" />
+            android:text="@string/Hard" />
     </LinearLayout>
 
 </LinearLayout>

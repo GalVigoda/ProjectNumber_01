@@ -5,11 +5,9 @@
     <string name="Age">Age</string>
     <string name="Next">Next</string>
     <string name="Back">Back</string>
-    <string name="Esay">Esay</string>
-    <string name="Normal">Normal</string>
-    <string name="Hard">Hard</string>
-
-
+    <string name="Esay">Esay 2X2</string>
+    <string name="Normal">Normal 4X4</string>
+     <string name="Hard">Hard 5X5</string>
 
 
 </resources>
